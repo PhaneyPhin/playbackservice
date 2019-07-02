@@ -1,0 +1,19 @@
+div.frame-contain {
+  z-index:-1;
+  height:1300px;
+  width:100%;
+  overflow-x: hidden;
+  overflow: hidden;
+  
+}
+
+iframe.embed {
+  width: 148%;
+  height: 1385px;
+  margin-left: -11%;
+  margin-top: -17px;
+
+}
+iframe,video{
+  cursor: pointer;
+}
